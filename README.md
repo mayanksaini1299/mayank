@@ -13,6 +13,14 @@
 
 <br/>
 
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,nodejs,express,mongodb,git,github&perline=9" />
+  </a>
+</p>
+
 <h3 align="left">GitHub Stats:</h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mayanksaini1299/mayanksaini1299/output/github-contribution-grid-snake-dark.svg">
