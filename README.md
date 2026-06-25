@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mayank Saini</h1>
 <h3 align="center">A passionate developer from India</h3>
 
+<img align="right" height="160" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFyOWdzZnBreHM0d2ZkcHBhZmd3NHpnZXhmbzV3NHp6bGI4bWY5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
+
 <br/>
 
 - 🔭 I'm currently working on **Backend**
@@ -9,7 +11,7 @@
 
 - 💬 Ask me about **Java, JavaScript, NodeJs, ExpressJs, MongoDB, SQL**
 
-- 📫 How to reach me **mayanksaini1299@gmail.com**
+- 📫 How to reach me **mayanksaini1131@gmail.com**
 
 <br/>
 
@@ -21,21 +23,4 @@
   </a>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mayanksaini1299/mayanksaini1299/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mayanksaini1299/mayanksaini1299/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mayanksaini1299/mayanksaini1299/output/github-contribution-grid-snake.svg">
-</picture>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayanksaini1299&show_icons=true&theme=radical" alt="mayanksaini1299" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayanksaini1299&layout=compact&theme=radical" alt="mayanksaini1299" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayanksaini1299&theme=radical" alt="mayanksaini1299" />
-</p>
