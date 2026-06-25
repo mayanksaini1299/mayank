@@ -25,5 +25,5 @@ jobs:
         with:
           branch: output
           folder: dist
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.SNAKE_TOKEN }}
           clean: true
