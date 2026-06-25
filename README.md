@@ -14,6 +14,11 @@
 <br/>
 
 <h3 align="left">GitHub Stats:</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mayanksaini1299/mayanksaini1299/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mayanksaini1299/mayanksaini1299/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mayanksaini1299/mayanksaini1299/output/github-contribution-grid-snake.svg">
+</picture>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mayanksaini1299&show_icons=true&theme=radical" alt="mayanksaini1299" />
